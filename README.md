@@ -18,4 +18,4 @@ Este projeto é uma simulação de um perfil de rede social, desenvolvido utiliz
 
 - ## Acesse o Projeto
 
-  [Projeto Social - Clique aqui para acessar](https://pabloG-7.github.io/projeto-sociais/)
+  [Projeto Social - Clique aqui para acessar](https://pablog-7.github.io/projeto-sociais/)
